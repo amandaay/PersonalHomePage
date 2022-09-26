@@ -14,7 +14,7 @@
 
 
 ## URL
-- amandaay.me
+- [amandaay.me](https://amandaay.me/)
 
 ## Video
 - https://www.youtube.com/watch?v=Fq9MXItpBBM

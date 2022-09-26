@@ -11,5 +11,9 @@
     "url": "PersonalHomePage"
   },
   "author": "Amanda Au-Yeung",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "eslint-plugin-react": "^7.31.8"
+  }
 }

@@ -1,7 +1,3 @@
-#title {
-    background-color: #F6F6F6;
-}
-
 body {
     background-color: #F6F6F6;
 }
@@ -35,6 +31,7 @@ body {
 
 .navbar {
     padding-bottom: 0 0 4.5rem;
+    background-color: #F6F6F6;
 }
 
 .navbar-brand {
@@ -44,5 +41,6 @@ body {
     color: #8785A2; 
 }
 
-
-
+.table1 {
+    border-spacing: 10px;
+}

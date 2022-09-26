@@ -3,6 +3,7 @@
 - Create a personal web page
 
 ## Demo
+![personal_home_page](https://user-images.githubusercontent.com/58647320/192212208-9697c90a-ddd7-4100-98af-000c3c7df495.gif)
 
 
 ## Google Slides

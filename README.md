@@ -4,7 +4,8 @@
 
 ## Demo
 ![personal_homepage](https://user-images.githubusercontent.com/58647320/192213380-a7fd054c-3608-42cf-ae90-a715e2148afb.gif)
-<img width="1422" alt="Screen Shot 2022-09-26 at 11 19 21 AM" src="https://user-images.githubusercontent.com/58647320/192316191-6aabe7b1-1244-40ee-8f2e-0e33b0bb48ce.png">
+
+<img width="1070" alt="Screen Shot 2022-09-26 at 11 22 25 AM" src="https://user-images.githubusercontent.com/58647320/192316413-fbf1fd2c-9f66-4469-83c1-9533ded2de4a.png">
 
 
 

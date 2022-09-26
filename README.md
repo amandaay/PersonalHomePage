@@ -1,10 +1,16 @@
 # Personal Home Page
-Project Objective
+## Project Objective
 - Create a personal web page
 
-Google Slides
+## Demo
+
+
+## Google Slides
 - https://docs.google.com/presentation/d/1aY54UYXSgOBexiUPHiYNFn6ky8WvswUADwGcZxghsmg/edit?usp=sharing
 
+
+## URL
+- amandaay.me
 
 This is my personal website using a combination of HTML, CSS, Bootstrap and JavaScript.
 The official link would be amandaay.me for access.
